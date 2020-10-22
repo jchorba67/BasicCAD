@@ -51,7 +51,7 @@ https://cvilleschools.onshape.com/documents/59f726553781fdb576a99479/w/4eb8ef69e
 
 ### Image
 
-<img src="images/Mount.png" width="300">
+<img src="images/mount.png" width="300">
 
 ### Reflection
 
