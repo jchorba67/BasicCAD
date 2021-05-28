@@ -86,6 +86,7 @@ Mr dierolf helped me with this. It was fun to do. Im learning more and more, eve
 ## Tire
 
 ### Description
+The objective of this assignment was to teach us the complexity of dimensions and how to apply them to in Onshape.
 
 ### Evidence
 
