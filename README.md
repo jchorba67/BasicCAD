@@ -112,10 +112,11 @@ This assignments objective was to teach us to sketch carefully and completely. N
 https://cvilleschools.onshape.com/documents/05e5bea2bf5213b2b58028e3/w/97929b0072ef183b7fcc47a6/e/25b27f009c9ee685ccfc6f81
 
 ### Image
-
-
+https://raw.githubusercontent.com/jchorba67/BasicCAD/main/Screenshot%202021-05-29%20at%201.55.26%20PM.png
 
 ### Reflection
+It was pretty straightforward. It was fun.
+
 
 ---
 
