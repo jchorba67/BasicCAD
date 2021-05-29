@@ -98,6 +98,7 @@ https://raw.githubusercontent.com/jchorba67/BasicCAD/main/Screenshot%202021-05-2
 
 
 ### Reflection
+This assignment was hard, but luckily I had Mr Dierolf to help me with it. It was fun making this challenge (it was a challenge for me)
 
 ---
 
