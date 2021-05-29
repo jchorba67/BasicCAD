@@ -106,10 +106,14 @@ This assignment was hard, but luckily I had Mr Dierolf to help me with it. It wa
 ## Wheel
 
 ### Description
+This assignments objective was to teach us to sketch carefully and completely. Never end until a sketch is fully constrained or black.
 
 ### Evidence
+https://cvilleschools.onshape.com/documents/05e5bea2bf5213b2b58028e3/w/97929b0072ef183b7fcc47a6/e/25b27f009c9ee685ccfc6f81
 
 ### Image
+
+
 
 ### Reflection
 
